@@ -34,10 +34,10 @@ def main():
         print("You have selected to follow/unfollow users")
         bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, 285 )
     else:
-#       print(followSwitch)
         bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, 0)
 
     loop(bot)
+
 
 def main_monologue():
     print("hey i just wanted to do this because I wanted")
@@ -103,7 +103,8 @@ def follow_switch():
     inputString = "Would you like to enable follow/unfollow? (y/n)"
     inputFileName = input_master2(inputString)
     return inputFileName
-    
+  
+# Gets called if username and password were not specified  
 def grab_account_info():
     print("Enter your username below, then hit ENTER")
     username = input("Type Username Here: ")
@@ -128,6 +129,7 @@ def interpret(commandLineArguments):
         type = 'account info'
     return type  
 
+# Gets called if whitelist and blacklist weren't specified
 def grab_tag_files():
     inputString = "Enter the name of the .txt file containing hashtags to search for: "
     inputFileName = input_master(inputString)
@@ -137,8 +139,9 @@ def grab_tag_files():
     inputTagBlackList = hashtags_list_form(inputFileName2)
     return (inputTagList, inputTagBlackList)
 
+    
 # Accepts inputFileName from accept_command_line_arguments(), and returns
-# - an array list of the hashtags in the input file
+# - an array list of the hashtags in the input file like the old form ['love', 'f4f', 'etc...']
 def hashtags_list_form(inputFileName):
     inFile = open(inputFileName, 'r')
     lineList = []
@@ -162,6 +165,10 @@ def input_master(inputString, userInput=0):
         userInput = input_master(inputString)
     return userInput    
     
+   
+# It's job is to prompt the user until it gets an acceptable input 'n' or 'y'
+# checks user input differently than input_master
+# returns that character
 def input_master2(inputString, userInput=0):
     if userInput == 0:
         userInput = input(inputString)

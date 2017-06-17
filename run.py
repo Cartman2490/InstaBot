@@ -19,7 +19,8 @@ from unfollow_protocol import unfollow_protocol
 
 def main():
     #login = ''
-    #password = ''    
+    #password = ''   
+    main_monologue()    
     settings = accept_command_line_arguments()
     
     login = settings[0]
@@ -32,11 +33,22 @@ def main():
     if followSwitch == 'y':
         print("You have selected to follow/unfollow users")
         bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, 285 )
-        loop(bot)
-#    print(followSwitch)
-    bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, 0)
+    else:
+#       print(followSwitch)
+        bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, 0)
+
     loop(bot)
 
+def main_monologue():
+    print("hey i just wanted to do this because I wanted")
+    print("to make it easy for my non tech-savvy brother to run")
+    print("the program himself. hi landon lol :)!")
+    print()
+    time.sleep(6)
+    print("ps follow me @carter__moody i send pics ;)")
+    print()
+    time.sleep(3)    
+    
     
 # Special handling for when the user starts the program
 # - It is capable of taking command line arguments upon execution for convenient
@@ -77,7 +89,7 @@ def accept_command_line_arguments():
         inputTagList = hashtags_list_form(txt_appender(commandLineArguments[3]))
         inputTagBlackList = hashtags_list_form(txt_appender(commandLineArguments[4]))
         followSwitch = follow_switch()
-        
+#    inputTagList.append('testingonlyonehashtaghimom') #force  like pictures from a certain hashtag, testing  
     editedCommandLineArguments = []
     editedCommandLineArguments.append(username)
     editedCommandLineArguments.append(password)

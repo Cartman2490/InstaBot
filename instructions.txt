@@ -1,0 +1,13 @@
+install python from the 'Python' folder, make sure you select to add to PATH !
+install cmder from 'CMDer' folder
+run cmder
+it will start with C:\users\<your username>, and you're supposed to enter text after the lambda sign...
+
+Install Requests
+1) type 'cd ..' to go back a folder
+2) type 'cd ..' to go back another folder
+3) you should be in 'C:\'
+4) type 'cd <folder name>' to enter a folder, if you installed InstaBot to 'C:\', then type: 'cd InstaBot'
+5) you will now be in the 'InstaBot' folder
+6) type 'pip install requests'
+7) congratulations, you may now run the program... If you need help, check the instructions.txt in the "Shortcuts" folder

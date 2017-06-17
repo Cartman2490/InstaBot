@@ -1,0 +1,386 @@
+cd ..
+cd D:\
+cd D:\
+cd .. 
+cd College\CPE101\lab8
+cd lab8
+cd funcs_objects
+cd ..
+cd funcs_objects\
+dor
+dir
+python
+ls
+python funcs_objects.py
+cd ..
+cd D:\
+cd D:\
+cd .. 
+cd College\CPE101\lab8
+cd funcs_objects
+cd funcs_objects\
+dor
+python
+python funcs_objects.py
+cd College
+cd CPE101
+cd laby7
+cd lab8
+a
+python file.py file.txt
+python file.py 2.txt
+python file.py
+python file.py in.txr
+cd list_comp
+ls
+dir
+python list_comp.py
+cd ..
+cd file
+python file.py in.txt
+python file.py 2.txt
+python file.py
+python file.py in.txr
+cd list_comp
+ls
+dir
+python list_comp.py
+cd file
+python file.py in.txt
+cd ..
+cd College
+cd CPE101
+cd lab9
+cd lab9\groups
+python groups.py
+cd lab9\groups
+python groups.py
+ls
+dir
+cd Desktop
+cd Project5
+python quakes.py
+python funcsTests.py
+cd lab9
+cd lab9\groups
+python groups.py
+cd lab9\groups
+python groups.py
+cd Desktop
+cd Project5
+python quakes.py
+python funcsTests.py
+cd ..
+cd college
+cd CPE101
+cd Project6
+cd pixelmagic
+python fade.py mouse.ppm 230 25 255
+python fade.py mouse.ppm 230 255 255
+ls
+dir
+ls
+dir
+cd Desktop
+cd Project5
+python quakes.py
+python funcsTests.py
+cd lab9
+cd lab9\groups
+python groups.py
+cd lab9\groups
+python groups.py
+cd Desktop
+cd Project5
+python quakes.py
+python funcsTests.py
+cd college
+python fade.py mouse.ppm 230 25 255
+python fade.py mouse.ppm 230 255 255
+cd ..
+ls
+cd College
+cd CPE101
+cd Project6
+dir
+cd pixelmagic
+python blur.py image
+python blur.py mous.ppm
+python blur.py
+python blur.py 5
+python blur.py mouse.ppm mouse
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+cd documents
+cd github
+cd lab-1-Cartman2490
+python lab1.py
+cd lab9\groups
+python groups.py
+cd lab9\groups
+python groups.py
+cd Desktop
+cd Project5
+python quakes.py
+python funcsTests.py
+cd ..
+cd college
+cd CPE101
+cd Project6
+cd pixelmagic
+python fade.py mouse.ppm 230 25 255
+python fade.py mouse.ppm 230 255 255
+ls
+dir
+ls
+dir
+cd Desktop
+cd Project5
+python quakes.py
+python funcsTests.py
+cd lab9
+cd lab9\groups
+python groups.py
+cd lab9\groups
+python groups.py
+cd Desktop
+cd Project5
+python quakes.py
+python funcsTests.py
+cd college
+python fade.py mouse.ppm 230 25 255
+python fade.py mouse.ppm 230 255 255
+ls
+cd College
+cd CPE101
+cd Project6
+dir
+cd pixelmagic
+python blur.py image
+python blur.py mous.ppm
+python blur.py
+python blur.py 5
+python blur.py mouse.ppm mouse
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+cd documents
+cd github
+cd lab-1-Cartman2490
+python lab1.py
+cd c
+cd ..
+cd USers
+cd cartm
+cd Documents
+cd GitHub
+cd project-1-Cartman2490
+python project1.py
+cd cartm
+test = ClassShape("BMW", (pair("Make", pair("Model", "mt"))))
+cd Documents
+cd GitHub
+cd project-1-Cartman2490
+python project1.py
+python blur.py image
+python blur.py mous.ppm
+python blur.py
+python blur.py 5
+python blur.py mouse.ppm mouse
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+cd documents
+cd github
+cd lab-1-Cartman2490
+python lab1.py
+cd c
+cd USers
+cd cartm
+cd Documents
+cd GitHub
+cd project-1-Cartman2490
+python project1.py
+test = ClassShape("BMW", (pair("Make", pair("Model", "mt"))))
+cd project-1-Cartman2490
+python project1.py
+cd ..
+cd cartm
+cd Documents
+cd GitHub
+cd project-2-Cartman2490
+python project2.py
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+cd documents
+cd github
+cd lab-1-Cartman2490
+python lab1.py
+cd c
+cd USers
+cd cartm
+cd Documents
+cd GitHub
+cd project-1-Cartman2490
+python project1.py
+test = ClassShape("BMW", (pair("Make", pair("Model", "mt"))))
+cd project-1-Cartman2490
+python project1.py
+cd ..
+cd cartm
+cd Documents
+cd GitHub
+cd Documents\GitHub
+cd project-2-Cartman2490
+python project2.py
+python project2.py catalog.txt
+cd c
+cd ..
+cd USers
+cd cartm
+cd Documents
+cd GitHub
+cd project-1-Cartman2490
+python project1.py
+cd cartm
+test = ClassShape("BMW", (pair("Make", pair("Model", "mt"))))
+cd Documents
+cd GitHub
+cd project-1-Cartman2490
+python project1.py
+python blur.py image
+python blur.py mous.ppm
+python blur.py
+python blur.py 5
+python blur.py mouse.ppm mouse
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+cd documents
+cd github
+cd lab-1-Cartman2490
+python lab1.py
+cd c
+cd USers
+cd cartm
+cd Documents
+cd GitHub
+cd project-1-Cartman2490
+python project1.py
+test = ClassShape("BMW", (pair("Make", pair("Model", "mt"))))
+cd project-1-Cartman2490
+python project1.py
+cd ..
+cd cartm
+cd Documents
+cd GitHub
+cd project-2-Cartman2490
+python project2.py
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+python blur.py mouse.ppm 0
+python blur.py mouse
+python blur.py mouse.ppm 5
+python blur.py mouse.ppm
+python blur.py mouse.
+python blur.py mousepng
+python blur.py mouse.png
+python blur.py faded.png
+cd documents
+cd lab-1-Cartman2490
+python lab1.py
+cd c
+cd USers
+cd cartm
+cd Documents
+cd GitHub
+cd project-1-Cartman2490
+python project1.py
+test = ClassShape("BMW", (pair("Make", pair("Model", "mt"))))
+cd project-1-Cartman2490
+python project1.py
+cd ..
+cd cartm
+cd GitHub
+cd Documents\GitHub
+cd project-2-Cartman2490
+python project2.py
+python project2.py catalog.txt
+cd Documents
+cd github
+cd lab-5-Cartman2490
+python circular_queue.py
+python circular_queue.py
+cd document
+cd documents
+cd github
+cd project-3-Cartman2490
+python huffman_encode.py
+python huffman.py

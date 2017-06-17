@@ -30,11 +30,13 @@ def main():
     inputTagList = whitelist
     inputTagBlackList = blacklist
     followSwitch = settings[4]
+    bothFollowRates = 0
     if followSwitch == 'y':
         print("You have selected to follow/unfollow users")
-        bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, 285 )
+        bothFollowRates = random.randint(250, 285)
+        bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, bothFollowRates )
     else:
-        bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, 0)
+        bot = create_Bot_with_settings(login, password, inputTagList, inputTagBlackList, bothFollowRates)
 
     loop(bot)
 

@@ -1,0 +1,36 @@
+Create a shortcut to launch the bot with certain parameters!
+you can do this by:
+1) Right click run.py
+2) click 'create shortcut'
+3) right-click on the shortcut you just created
+4) click 'properties'
+5) edit the 'target' field to include arguments (settings) that you wish the program to run with
+**my 'target' field in my user-specific shortcut file looks like this: C:\InstaBotGenericUserGitHub\run.py notmyusername notmypassword generic_whitelist generic_blacklist n
+
+format:
+You can choose to launch the program in many different ways,
+
+With NONE of the paramteres set:
+(the program will pormpt you for username, password, etc...)
+(Use this to choose the settings upon startup)
+-->run.py
+
+With all the parameters set:
+(the program will attempt to login with username and password, application will run)
+(Use this to create custom tailored shortcuts to the application)
+-->run.py <username> <password> <your .txt whitelist> <your .txt blacklist> <y/n>
+
+With only a username and password:
+(the program will prompt you for a whitelist, blacklist, then y/n)
+(Use this to change between tag lists easily)
+-->run.py <username> <password>
+
+With only a whitelist and blacklist:
+(the program will prompt you for a username, password, then y/n)
+(Use this to change between users easily)
+-->run.py <your .txt whitelist> <your .txt blacklist>
+
+With all but  <y/n> set:
+(the program will prompt you for 'y', or 'n')
+(Use this if you want the application to prompt you to turn on/off following/unfollowing)
+-->run.py <username> <password> <your .txt whitelist> <your .txt blacklist> <y/n>

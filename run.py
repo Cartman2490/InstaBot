@@ -78,6 +78,7 @@ def accept_command_line_arguments():
 
         (username, password) = grab_account_info()
         (inputTagList, inputTagBlackList) = grab_tag_files()
+        followSwitch = follow_switch()
     if len(commandLineArguments) == 6:
         username = commandLineArguments[1]
         password = commandLineArguments[2]
